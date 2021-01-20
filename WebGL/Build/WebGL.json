@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Idle Game",
+"companyName": "EclipseDRM",
+"productName": "ClickerClickerGame",
 "productVersion": "0.1",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
